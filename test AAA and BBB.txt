@@ -1,0 +1,328 @@
+Would you like to play? (y/n) y
+Would you like to upload a custom map (write in file with .txt) or use the default? (d): d
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 	<--- Astronaut
+
+1	 1	 10	 20	 
+
+2	 3	 10	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Please enter the following information to set up game: 
+Do you want a planet python (y/n)? y
+What is your name?: AAA
+How many moves do you want? (1-10): 10
+How many litres of fuel would you like to start with? (max 100): 100
+What is you civilization level? (0-3): 3
+Would you like mild explosions to occur? (y/n): y
+Would you like amazing explosions to occur? (y/n) y
+What is the location of the Python Planet? (1-7): 5
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  2
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 
+
+2	 3	 10	 15	 	<--- Astronaut
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 	<=====PYTHON PLANET!!
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Aliens have civ level:  3
+The aliens are just as smart as you...
+You collected  5  rocks.
+Current collected rocks:  [5]
+Fuel taken from you:  34
+Current fuel you have:  66
+Mild explosion happened in a galaxy far, far away!!
+An amazing explosion happened in a distant universe. Lucky you weren't part of that.
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  5
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 
+
+2	 3	 0	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 	<=====PYTHON PLANET!!
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 	<--- Astronaut
+
+Aliens have civ level:  3
+The aliens are just as smart as you...
+You collected  1  rocks.
+Current collected rocks:  [5, 1]
+Fuel taken from you:  27
+Current fuel you have:  39
+Mild explosion happened in a galaxy far, far away!!
+An amazing explosion happened in a distant universe. Lucky you weren't part of that.
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  6
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 
+
+2	 3	 0	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 	<--- Astronaut	<=====PYTHON PLANET!!
+
+6	 3	 10	 30	 
+
+7	 3	 0	 4	 
+
+End of this game...
+==============RESULTS=================
+Games that took place: 1
+You reached the Python Planet and won!
+Showing final game board...
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 
+
+2	 3	 0	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 	<--- Astronaut	<=====PYTHON PLANET!!
+
+6	 3	 10	 30	 
+
+7	 3	 0	 4	 
+
+Astronaut AAA, has civilization level 3, and is in position 5
+You finished with  999  fuel
+You finished with these cool rocks:  [5, 1, 999]
+Would you like to play again? (y/n): y
+Would you like to upload a custom map (write in file with .txt) or use the default? (d): d
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 	<--- Astronaut
+
+1	 1	 10	 20	 
+
+2	 3	 10	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Please enter the following information to set up game: 
+Do you want a planet python (y/n)? n
+What is your name?: BBB
+How many moves do you want? (1-10): 5
+How many litres of fuel would you like to start with? (max 100): 50
+What is you civilization level? (0-3): 2
+Would you like mild explosions to occur? (y/n): y
+Would you like amazing explosions to occur? (y/n) y
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  3
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 
+
+2	 3	 10	 15	 
+
+3	 2	 30	 20	 	<--- Astronaut
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Aliens have civ level:  2
+The aliens are just as smart as you...
+You collected  6  rocks.
+Current collected rocks:  [6]
+Fuel taken from you:  12
+Current fuel you have:  38
+Mild explosion happened in a galaxy far, far away!!
+An amazing explosion happened in a distant universe. Lucky you weren't part of that.
+Do you want to roll the dice or choose a planet index? (r/c): m
+Whoops, try again
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  2
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 
+
+2	 3	 10	 15	 
+
+3	 2	 18	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 	<--- Astronaut
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Aliens have civ level:  1
+You are much smarter than the aliens.
+You collected  2  rocks.
+Current collected rocks:  [6, 2]
+Fuel you receive:  6
+Current fuel:  44
+A mild explosion happened in planet: 4 !!
+An amazing explosion just occured on planet # 3
+That planet is done for, no more planet # 3
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  3
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 40	 
+
+2	 3	 10	 55	 
+
+3	 1	 0	 5	 
+
+4	 1	 4	 6	 
+
+5	 3	 10	 30	 
+
+6	 3	 10	 4	 	<--- Astronaut
+
+Aliens have civ level:  3
+The aliens are way smarter than you!
+Fuel taken from you:  37
+Current fuel you have:  7
+You collected  1  rocks.
+Current collected rocks:  [6, 2, 1]
+Mild explosion happened in a galaxy far, far away!!
+An amazing explosion happened in a distant universe. Lucky you weren't part of that.
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  2
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 40	 	<--- Astronaut
+
+2	 3	 10	 55	 
+
+3	 1	 0	 5	 
+
+4	 1	 4	 6	 
+
+5	 3	 10	 30	 
+
+6	 3	 10	 3	 
+
+Aliens have civ level:  1
+You are much smarter than the aliens.
+You collected  13  rocks.
+Current collected rocks:  [6, 2, 1, 13]
+Fuel you receive:  9
+Current fuel:  16
+A mild explosion happened in planet: 4 !!
+An amazing explosion happened in a distant universe. Lucky you weren't part of that.
+Do you want to roll the dice or choose a planet index? (r/c): r
+You rolled a  1
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 1	 50	 
+
+2	 3	 10	 75	 	<--- Astronaut
+
+3	 1	 0	 35	 
+
+4	 1	 4	 6	 
+
+5	 3	 10	 30	 
+
+6	 3	 10	 3	 
+
+Aliens have civ level:  3
+The aliens are way smarter than you!
+Fuel taken from you:  2
+Current fuel you have:  14
+You collected  25  rocks.
+Current collected rocks:  [6, 2, 1, 13, 25]
+End of this game...
+==============RESULTS=================
+Games that took place: 2
+Game ended because you played max amount of moves!
+Showing final game board...
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 1	 50	 
+
+2	 3	 10	 50	 	<--- Astronaut
+
+3	 1	 0	 35	 
+
+4	 1	 4	 6	 
+
+5	 3	 10	 30	 
+
+6	 3	 10	 3	 
+
+Astronaut BBB, has civilization level 2, and is in position 2
+You finished with  14  fuel
+You finished with these cool rocks:  [6, 2, 1, 13, 25]
+Would you like to play again? (y/n): n
+Total games played:  2
+Total games won:  1
+Total rocks collected:  [[5, 1, 999], [6, 2, 1, 13, 25]]
+To conclude, program will do a binary conversion!!
+Taking rock specimens...
+List of rocks in planets:  ['0', '50', '50', '35', '6', '30', '3']
+Binary conversion of list:  [0, 0, 0, 1, 0, 0, 1]
+Binary number:  9
+Goodbye!

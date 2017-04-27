@@ -1,0 +1,70 @@
+Bug changelog
+
+Location:
+
+AMAZINGEXPLODEXD
+-Bug: ValueError: invalid literal for int() with base 10: 'letter;
+	-if an amazing explosion happened outside the map, function would return a string instead of the list, 
+	fixed (line 77)
+
+
+
+roll_dice
+
+-Bug: returning nothing
+	
+	-had to return(circularmovement(x, x, x)), which returns its own value
+
+
+
+presentlist
+
+	-Fixed grid presentation
+
+
+	-(v2_2) Moved .split to txttolist(), so the list gets rid of the hyphens at the beginning
+		-Only have to split the list once, prevents crash of presentlist after second loop (since
+		hyphens will no longer be present, and therefore will have nothing to split)
+		-Believe this also fixed coolaliens, more testing needed	
+
+Top level
+-Bug: entering a value for movement crashed the game
+	-Used a comma in the input statement (line 327), read that as 2 arguments
+	-Added roll_dice function, dice rolls were integrated into the movement function
+
+
+-Bug: saying no to Python Planet crashes
+	
+	-Moved all input statements to above the py_planet_cond if statement
+	
+	-Changed elif condition
+ ("n")
+
+Current Bugs:
+-rock subtraction...(mel)
+-fuel subtraction...(mel)
+
+==== CORRECTED XD -- MEL 
+-Main problem: variable mixups with mel + cam
+
+-times played = timesplayed+1
+-wins are accumed
+-total rocks are accumed
+-if pyplanet reached, player collects 999 rocks and 999 fuel
+	-noted in final results that he has
+
+-NOOB FIX: at end of nested while loop iteration moves += 1
+	**it used to run till death
+-at end of NOT NESTED while loop, if user sets play to n, no_play = False
+	-so it prints FINAL END GAME RESULTS
+
+-HUGE UPDATE: realized how Cam did list. much more convenient bless you..
+	-UPDATED MY CONFUSING ASS ALIEN FUNCTION
+	-UPDATED ROCKS
+	-UPDATED MILD EXPLOSIONS
+	-UPDATED AMAZING EXPLOSIONS
+	-UPDATED BINARY ROCK FUNCTION
+-updated end game results
+-updated FINALFINAL results :^) 
+-updated present list so we can see which planet has planet python
+-## at far left means mel commented

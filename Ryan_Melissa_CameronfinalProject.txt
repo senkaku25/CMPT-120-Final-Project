@@ -1,0 +1,9 @@
+	The final CMPT 120 project, 'Python Planet Game', took around (10) hours to make. Since each one of us did the Codewrite assignments, we learned how to formulate the functions and top level. The functions were first made when making this game because for the top level to be created we needed these assets. The part that took the most amount of time was debugging.
+
+**Note on flowchart: Flowgorithm wasn't downloading so we used Notebook
+
+Team Organization:
+
+Ryan Thomspson: Top level, debugging, testing
+Melissa Lee: Function formulation, debugging, testing,
+Cameron Savage: Top level, debugging, testing

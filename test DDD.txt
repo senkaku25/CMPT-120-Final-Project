@@ -1,0 +1,76 @@
+Would you like to play? (y/n) y
+Would you like to upload a custom map (write in file with .txt) or use the default? (d): d
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 	<--- Astronaut
+
+1	 1	 10	 20	 
+
+2	 3	 10	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Please enter the following information to set up game: 
+Do you want a planet python (y/n)? y
+What is your name?: DDD
+How many moves do you want? (1-10): 1
+How many litres of fuel would you like to start with? (max 100): 1
+What is you civilization level? (0-3): 1
+Would you like mild explosions to occur? (y/n): n
+Would you like amazing explosions to occur? (y/n) n
+What is the location of the Python Planet? (1-7): 1
+Do you want to roll the dice or choose a planet index? (r/c): c
+Enter an integer from 0 to 7: 1
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 	<--- Astronaut	<=====PYTHON PLANET!!
+
+2	 3	 10	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+End of this game...
+==============RESULTS=================
+Games that took place: 1
+You reached the Python Planet and won!
+Showing final game board...
+Here is your map: 
+Planet Civ-Level Fuel Rocks: 
+0	 0	 0	 0	 
+
+1	 1	 10	 20	 	<--- Astronaut	<=====PYTHON PLANET!!
+
+2	 3	 10	 15	 
+
+3	 2	 30	 20	 
+
+4	 1	 0	 5	 
+
+5	 1	 10	 6	 
+
+6	 3	 10	 30	 
+
+7	 3	 10	 4	 
+
+Astronaut DDD, has civilization level 1, and is in position 1
+You finished with  999  fuel
+You finished with these cool rocks:  [999]
+Would you like to play again? (y/n): 
