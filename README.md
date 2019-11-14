@@ -1,2 +1,3 @@
 # CMPT-120-Final-Project
-A game coded in python as a final project. :)
+This game was programmed in python and was submitted as my final project in CMPT 120.
+
